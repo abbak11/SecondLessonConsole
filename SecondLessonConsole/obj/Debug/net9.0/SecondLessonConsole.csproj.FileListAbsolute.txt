@@ -1,0 +1,14 @@
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/bin/Debug/net9.0/SecondLessonConsole
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/bin/Debug/net9.0/SecondLessonConsole.deps.json
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/bin/Debug/net9.0/SecondLessonConsole.runtimeconfig.json
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/bin/Debug/net9.0/SecondLessonConsole.dll
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/bin/Debug/net9.0/SecondLessonConsole.pdb
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.AssemblyInfoInputs.cache
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.AssemblyInfo.cs
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.csproj.CoreCompileInputs.cache
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.dll
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/refint/SecondLessonConsole.dll
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.pdb
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/SecondLessonConsole.genruntimeconfig.cache
+/Users/abubakr/Desktop/C#/SecondLessonConsole/SecondLessonConsole/obj/Debug/net9.0/ref/SecondLessonConsole.dll
